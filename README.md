@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://i.gifer.com/kET.gif" width="600"/>
 </div>
-<h1 align="center">Hi 👋, I'm Olga</h1>
+<h1 align="center">Hi <img src="https://camo.githubusercontent.com/8cb1a623a293e923f5050f479246f7d1bcf363180ae8d5b821335050943a6774/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" alt="Sticker" width="50" height="50" style="vertical-align: middle;"/>, I'm Olga</h1>
 <h3 align="center">Writing code that works... sometimes</h3>
 
 - 🌱 I’m currently learning **C++**
