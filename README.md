@@ -5,13 +5,13 @@
 <h3 align="center">Writing code that works... sometimes</h3>
 
 
-🌍  I'm based in Moscow
+🌍  Based in Moscow
 
-🧠  I’m currently learning **C++**
+🧠  Currently learning **C++**
 
-🌱  I am an intern Data Scientis
+🌱  An intern Data Scientis
 
-<img src="https://github.com/K1rsN7/K1rsN7/raw/main/Image/books.gif" alt="Books" width="30" height="30" style="vertical-align: middle;"/>I am a FU student
+<img src="https://github.com/K1rsN7/K1rsN7/raw/main/Image/books.gif" alt="Books" width="30" height="30" style="vertical-align: middle;"/>FU student
   
 
 
