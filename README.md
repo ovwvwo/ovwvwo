@@ -9,7 +9,7 @@
 
 🧠  Currently learning **C++**
 
-🌱  An intern Data Scientis
+🌱  An intern Data Scientist
 
 <img src="https://github.com/K1rsN7/K1rsN7/raw/main/Image/books.gif" alt="Books" width="30" height="30" style="vertical-align: middle;"/>FU student
   
